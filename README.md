@@ -56,6 +56,10 @@ Enter an amount to be deposited: 100
 Your balance is $100.00
 *********************
 
+Screenshot:
+![Code Output](https://github.com/user-attachments/assets/39154133-ac2f-4ce7-9e6a-3d1267119a5c)
+
+
 Code Structure
 show_balance(balance): Displays the current account balance.
 deposit(): Allows the user to deposit funds and validates the input.
